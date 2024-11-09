@@ -2,4 +2,4 @@ instalar nodejs
 cli firebase
 SDK dart
 para cli flutterfire
-variables de entorno para dart reconozca powershell
+variables de entorno para dart reconozca powershell, lo mismo flutterfire
