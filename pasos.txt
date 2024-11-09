@@ -1,0 +1,5 @@
+instalar nodejs
+cli firebase
+SDK dart
+para cli flutterfire
+variables de entorno para dart reconozca powershell
