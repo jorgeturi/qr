@@ -4,3 +4,5 @@ SDK dart
 para cli flutterfire
 variables de entorno para dart reconozca powershell, lo mismo flutterfire
 lo mismo flutter SDK y variable de entorno
+------------------
+de gusto, instalando flutter venia todo tuve que borrar dart aparte
